@@ -8,7 +8,7 @@ title: Awards
 
 ## Scholarships
 
-- Nov 2023：**First Prize Scholarship of YZU **（¥2000）
+- Nov 2023：**First Prize Scholarship of YZU**（¥2000）
 - Nov 2022：**Second Prize Scholarship of YZU** （¥1000）
 
 ## Competitions (Selected)
