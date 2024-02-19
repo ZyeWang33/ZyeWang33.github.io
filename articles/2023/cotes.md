@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /articles/2023/cotes/index.html
+title: Newton-Cotes系数和为 1 的证明
+---
+
 $$C_{i}^{(n)}=\frac{(-1)^{n-i}}{i !(n-i) ! n} \int_{0}^{n} \prod_{\substack{j=0 \\ j \neq i}}^{n}(t-j) d t$$考虑
 $$
 F_i(t)=\frac{(-1)^{n-i}}{i !(n-i) ! n} \prod_{\substack{j=0 \\ j \neq i}}^n(t-j)
