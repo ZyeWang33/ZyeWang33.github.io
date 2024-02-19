@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://ZyeWang33.github.io/wzy.JPG" class="floatpic" width="360" height="480">
 
-Here is **Ziyi Wang (Lance, 蔡汉霖)**.
+Here is **Ziyi Wang (Lance, 王子毅)**.
 
 I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**. I will be attending AAAI-24 in Vancouver, please feel free to chat with me.
 
@@ -14,7 +14,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I plan to participate in the 2024 Chinese university recommendation summer camp. Contact me if you have any leads!**
 
 - **Sep 2021 - June 2024:** Yangzhou University (BEng)
 
@@ -38,14 +38,10 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Feb 2024：**Got a MSc offer from the CS department of UCL.
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM**/**ICM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan.
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Nov 2023：**Happy to be awarded the First Class Scholarship from the President of Yangzhou University
+- **July 2023：**Collected the Honorable Mention Award in MCM**/**ICM 2023 (Top 21%).
+- **June 2023：**Collected the First Prize in Mathematical Modeling Competition for College Students at Yangzhou University(Top 5%).
+- **Jan 2023：**
 
 <br>
 
