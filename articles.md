@@ -12,7 +12,7 @@ title: Articles
 
 ### 2023
 
-- [Newton-Cotes系数和为 1 的证明](https://ZyeWang33.github.io/articles/2023/cotes/)<br>
+- [Newton-Cotes系数和为 1 的证明](https://zhuanlan.zhihu.com/p/671532091)<br>
 
 <br>
 
