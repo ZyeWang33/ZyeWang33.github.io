@@ -4,20 +4,17 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 8th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+> Lastest Update: 20 Feb 2024 &nbsp; [中文版本 (Chinese Version)](https://ZyeWang33.github.io/file/awards-zh/)
 
 ## Scholarships
 
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only [12 undergraduates](https://aaai-uc.github.io/) are selected around the world
-- Aug 2023：**FEPG Scholarship** ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：**XiamenAir Scholarship** ($600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth<br>
+- Nov 2023：**First Prize Scholarship of YZU **（¥2000）
+
+- Nov 2022：**Second Prize Scholarship of YZU** （¥1000）
+
+  
+
+  
 
 ## Competitions (Selected)
 
@@ -50,4 +47,4 @@ title: Awards
 - [April 2022：Top 10 Best Volunteers (Only 10/30000) of Fuzhou University](https://mp.weixin.qq.com/s?__biz=MjM5ODIyNzIyMg==&mid=2652762645&idx=1&sn=3d58cdfb0fb26db7a2b82aee9726b172&chksm=bd24ae6c8a53277a8910f7336758100ec4d4c4f19b8de74c4ccebc9a95ace364c0faf2b2c0b3&scene=27)
 - Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
 - July 2021：Outstanding volunteer at the 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
+- ##### April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
