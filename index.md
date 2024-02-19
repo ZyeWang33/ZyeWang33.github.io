@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://ZyeWang33.github.io/wzy.JPG" class="floatpic" width="360" height="480">
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
@@ -16,10 +16,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2024 - Sep 2025：**Cambridge University (MPhil)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
+- **Sep 2021 - June 2024:** Yangzhou University (BEng)
 
 <br>
 
@@ -27,9 +24,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Internet of Everything (IoE)
-- Industrial Automation
-- Network and Cybersecurity
+- Math
+- Numerical Analysis
+- Neural-ODEs
 - Applied Machine Learning
 - [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
 
