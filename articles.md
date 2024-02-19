@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/index.html
-title: Blogs
+permalink: /articles/index.html
+title: Articles
 ---
 
 ## Math Articles
