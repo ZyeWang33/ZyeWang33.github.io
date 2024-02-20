@@ -40,15 +40,15 @@ links:
     url: /
 #  - title: Teams
 #    url: /teams/
-#  - title: Publications
-#    url: /publications/
   - title: Awards
     url: /awards/
+  - title: Publications
+    url: /publications/
   - title: Hobbies
     url: /hobbies/
   - title: Articles
     url: /articles/
-    
+
 #  - title: Blogs
 #    url: /blogs/
 
