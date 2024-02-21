@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## Coffee & Surfing
 
 <div class="third">
 <img src="/images/swimming2.JPG">
