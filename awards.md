@@ -13,6 +13,7 @@ title: Awards
 
 ## Competitions (Selected)
 
+- May 2023：**<font color='red'>Finalist</font>** in Mathematical Contest In Modeling (Top 1%)
 - May 2023：**<font color='red'>Honorable Mention Award</font>** in Mathematical Contest In Modeling (Top 23%)
 - Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
 
