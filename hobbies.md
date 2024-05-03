@@ -27,9 +27,6 @@ title: Hobbies
 [best universities in my hometown]:https://www.fzu.edu.cn/
 
 
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
 
 ## My Cat
 
