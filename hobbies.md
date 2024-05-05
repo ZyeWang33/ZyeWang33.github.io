@@ -21,7 +21,7 @@ title: Hobbies
 </div>
 
 <div style="text-align: center;">
-    苏州
+    <p><i>苏州</i></p>
 </div>
 
 <div class="third">
