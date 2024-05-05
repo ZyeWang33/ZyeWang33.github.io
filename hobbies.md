@@ -16,9 +16,17 @@ title: Hobbies
     西湖
 </div>
 
-<div class="third">
+<div>
 <img src="/images/suzhou.JPG">
-<img src="/images/xihu.JPG">
+</div>
+
+<div style="text-align: center;">
+    苏州
+</div>
+
+<div class="third">
+<img src="/images/cf.JPG">
+<img src="/images/cf.JPG">
 <img src="/images/cf.JPG">
 </div>
 
