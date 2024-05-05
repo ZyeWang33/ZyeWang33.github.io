@@ -25,7 +25,7 @@ title: Hobbies
 </div>
 
 <div class="third">
-<img src="/images/cf1.jpg">
+<img src="/images/cf1.JPG">
 <img src="/images/cf2.JPG">
 <img src="/images/cf3.JPG">
 </div>
