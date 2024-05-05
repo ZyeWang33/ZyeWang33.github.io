@@ -47,7 +47,15 @@ title: Hobbies
 
 ## My Cat
 
-She is my love. Her name is Qbao (Q宝).
+He is my love. Her name is Biga (鼻嘎).
+
+<div class="third">
+<img src="/images/cat1.JPG">
+<img src="/images/cat2.JPG">
+<img src="/images/cat3.JPG">
+</div>
+
+
 
 <div>
 <img src="/images/cat.JPG">
