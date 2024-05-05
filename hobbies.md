@@ -8,6 +8,12 @@ title: Hobbies
 
 ## Coffee & Photograph
 
+<div>
+<img src="/images/suzhou.JPG">
+</div>
+
+
+
 <div class="third">
 <img src="/images/suzhou.JPG">
 <img src="/images/xihu.JPG">
