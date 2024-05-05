@@ -12,7 +12,9 @@ title: Hobbies
 <img src="/images/xihu.JPG">
 </div>
 
-
+<div style="text-align: center;">
+    西湖
+</div>
 
 <div class="third">
 <img src="/images/suzhou.JPG">
