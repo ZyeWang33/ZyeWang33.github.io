@@ -13,7 +13,7 @@ title: Hobbies
 </div>
 
 <div style="text-align: center;">
-    西湖
+    <p><i>西湖</i>。</p>
 </div>
 
 <div>
