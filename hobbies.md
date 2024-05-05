@@ -47,7 +47,7 @@ title: Hobbies
 
 ## My Cat
 
-He is my love. Her name is Biga (鼻嘎).
+He is my love. His name is Biga (鼻嘎).
 
 <div class="third">
 <img src="/images/cat1.JPG">
@@ -57,9 +57,8 @@ He is my love. Her name is Biga (鼻嘎).
 
 
 
-<div>
-<img src="/images/cat.JPG">
-</div>
+
+
 <br>
 
 ## Chat with me
