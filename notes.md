@@ -8,7 +8,7 @@ title: Notes
 
 ## Class notes
 
-- [Real Analysis](https/zyewang33.github.io/file/note/probablity_theory.pdf) 
+- [Real Analysis](https//zyewang33.github.io/file/note/probablity_theory.pdf) 
 
 
 
