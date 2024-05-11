@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I plan to participate in the 2024 Chinese university recommendation summer camp. Contact me if you have any leads!**
 
-- **Sep 2021 - June 2024:** Yangzhou University (BEng)
+- **Sep 2021 - June 2024:** Yangzhou University (B.Sc)
 
 <br>
 
@@ -27,10 +27,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Math
 - Numerical Analysis
 - Neural-ODEs
-- Applied Machine Learning
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Deep Learning
+- AI4Math
 
 <br>
 
@@ -38,11 +36,8 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Nov 2023：**Happy to be awarded the First Class Scholarship from the President of Yangzhou University
-- **July 2023：**Collected the Honorable Mention Award in MCM**/**ICM 2023 (Top 21%).
-- **June 2023：**Collected the First Prize in Mathematical Modeling Competition for College Students at Yangzhou University(Top 5%).
-- **Jan 2023：**
+- **May 2024**：Massive update to the personal home page
+- **Jan 2024：**Created this personal homepage.
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m thrilled to share that I have been awarded the AAAI 2024 Undergraduate Scholarship and will be attending the AAAI Conference in Vancouver this coming February.<br><br>I am also looking for PhD to start in 2025 Fall. Contact me if you have any leads! 😁 <a href="https://t.co/GxdTPnCzE6">pic.twitter.com/GxdTPnCzE6</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1738533328490463639?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
