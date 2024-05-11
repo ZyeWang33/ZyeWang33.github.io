@@ -4,7 +4,7 @@ permalink: /notes/index.html
 title: Notes
 ---
 
-# Hobbies
+# Notes
 
 ## Class notes
 
