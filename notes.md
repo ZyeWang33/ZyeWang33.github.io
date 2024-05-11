@@ -20,5 +20,4 @@ title: Notes
 
 
 
-
-
+*** If you have some suggestions about these notes , please contact with me through zyewang33@gmail.com***
