@@ -6,17 +6,17 @@ title: Notes
 
 # Notes
 
-## Class notes
+## Class notes (Not yet revised or fully archived) 
 
 - [Probability Theory](probablity_theory.pdf) 
-- [Real Analysis](real_analysis.pdf)
-- [Numerical Analysis](numerical_analysis.pdf)
+- [Real Analysis](real_analysis.pdf)  
+- [Numerical Analysis](numerical_analysis.pdf)    
 
 
 
 ## Exercises
 
-- 
+- [Homework of Real Analysis](hw_real_analysis)  ***(just finished organizing HW1、7、8)***
 
 
 
