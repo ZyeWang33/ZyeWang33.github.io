@@ -38,7 +38,11 @@ title: Hobbies
 <img src="/images/cf3.JPG">
 </div>
 
-<br>喜欢喝咖啡并不是因为能提神
+<br>I drink at least one cup of coffee a day. My love for coffee isn't just because it helps with alertness (although sometimes I drink it for that reason). 
+
+In fact, modern coffee culture has developed as extensively as tea. You can think of hand-brewed coffee or Americano as pure tea (extracted through the simplest filtration), and latte as milk tea. Some chain coffee shops market fancy concoctions like coconut lattes or Moutai lattes, which are akin to milk tea with whipped cream and syrup.
+
+Personally, I only like hand-brewed coffee, Americano, or coffee with milk that contains only espresso and milk (without syrup).
 
 ## My Cat
 
