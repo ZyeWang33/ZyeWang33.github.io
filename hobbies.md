@@ -23,12 +23,21 @@ title: Hobbies
 <div style="text-align: center;">
     <p><i>苏州</i></p>
 </div>
+<div>
+<img src="/images/sc.JPG">
+</div>
+
+<div style="text-align: center;">
+    <p><i>手冲咖啡</i></p>
+</div>
+
 
 <div class="third">
 <img src="/images/cf1.JPG">
 <img src="/images/cf2.JPG">
 <img src="/images/cf3.JPG">
 </div>
+
 <br>喜欢喝咖啡并不是因为能提神
 
 ## My Cat
