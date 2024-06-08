@@ -4,7 +4,7 @@ permalink: /notes/index.html
 title: Notes
 ---
 
-# Notes
+# Notes("Knowledge should be freely shared among all.")
 
 ## Class notes (Not yet revised or fully archived) 
 
