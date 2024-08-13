@@ -16,8 +16,6 @@ title: Notes
 - [Numerical Analysis](numerical_analysis.pdf)    
 - [Linear Algebra](linear_algebra.pdf)    
 
-
-
 ## Exercises
 
 - [Homework of Real Analysis](hw_real_analysis.pdf)  ***(just finished organizing HW1、7、8)***
