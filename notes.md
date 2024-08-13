@@ -14,6 +14,7 @@ title: Notes
 - [Real Analysis](real_analysis.pdf)  
 - [Complex Analysis](complex_analysis.pdf)
 - [Numerical Analysis](numerical_analysis.pdf)    
+- [Linear Algebra](linear_algebra.pdf)    
 
 
 
