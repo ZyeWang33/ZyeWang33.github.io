@@ -16,6 +16,7 @@ title: Notes
 - [Numerical Analysis](numerical_analysis.pdf)    
 - [Linear Algebra](linear_algebra.pdf)    
 - [Ordinary Differential Equation](ode.pdf)    
+- [Mathematics Analysis](math_analysis.pdf)
 
 ## Exercises
 
