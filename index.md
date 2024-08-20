@@ -40,8 +40,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Updates
 
+- **Aug  2024**：Update several Math notes
 - **May 2024**：Massive update to the personal home page
-- **Jan 2024：**Created this personal homepage.
+- **Jan   2024：**Created this personal homepage.
 
 <br>
 
