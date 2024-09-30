@@ -20,9 +20,13 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I plan to participate in the 2024 Chinese university recommendation summer camp. Contact me if you have any leads!**
 
-- **Sep 2021 - June 2024:** Yangzhou University (B.Sc)
+- **Sep 2021 - June 2025:** Yangzhou University (B.Sc)
 
-<br>
+- **Sep 2025 - - :** University of Electronic Science  and Technology (M.Sc)<font color='red'>[Expected]</font> 
+
+  **Advisor:** *** Hua Shen***  [Link](https://www.math.uestc.edu.cn/info/1076/4553.htm)
+
+  <br>
 
 ---
 
