@@ -24,7 +24,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Sep 2025 - - :** University of Electronic Science  and Technology (M.Sc)<font color='red'>[Expected]</font> 
 
-  **Advisor:** *** Hua Shen***  [Link](https://www.math.uestc.edu.cn/info/1076/4553.htm)
+  **Advisor:**      ***Prof***  Hua Shen [[Link]](https://www.math.uestc.edu.cn/info/1076/4553.htm)
 
   <br>
 
