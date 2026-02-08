@@ -8,7 +8,7 @@ layout: page
 
 Here is **Ziyi Wang (Albus, 王子毅)**.
 
-I am a junior undergraduate student majoring in **Information & Computational Science** from the School of Mathematical Sciences, Yangzhou University.
+I am a first-year master's student at the School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC).
 
 I have a strong interest in **mathematics**, a curiosity and a desire to explore knowledge.
 
@@ -18,13 +18,11 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I plan to participate in the 2024 Chinese university recommendation summer camp. Contact me if you have any leads!**
-
 - **Sep 2021 - June 2025:** Yangzhou University (B.Sc)
 
-- **Sep 2025 - - :** University of Electronic Science  and Technology (M.Sc)<font color='red'>[Expected]</font> 
+- **Sep 2025 - - :** University of Electronic Science  and Technology (M.Sc)
 
-  **Advisor:**      ***Prof***   Hua Shen [[Link]](https://www.math.uestc.edu.cn/info/1076/4553.htm)
+  **Advisor:**      ***Prof***     Hua Shen [[Link]](https://www.math.uestc.edu.cn/info/1076/4553.htm)
 
   <br>
 
@@ -32,11 +30,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Math
-- Numerical Analysis
-- Neural-ODEs
-- Deep Learning
-- AI4Math
+- Discontinuous Galerkin method
+- Finite Element Analysis
+- Computational Fluid Dynamics
 
 <br>
 
