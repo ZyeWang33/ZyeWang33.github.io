@@ -8,6 +8,7 @@ title: Awards
 
 ## Scholarships
 
+- Nov 2024：**First Prize Scholarship of YZU**
 - Nov 2023：**First Prize Scholarship of YZU**
 - Nov 2022：**Second Prize Scholarship of YZU** 
 
@@ -23,11 +24,6 @@ title: Awards
 - Dec  2023：Third Prize (Provincial Level) in Chinese Mathematics Competitions (Top 20%)
 - Oct  2023：Third Prize (Provincial Level) in Chinese Mathematics Competitions China Undergraduate Mathematical Contest in Modeling (Top 20%)
 - May 2023：**<font color='red'>Honorable Mention Award</font>** in Mathematical Contest In Modeling (Top 23%)
-
-## Honors
-
-- Three Good Students from the School of Mathematical Sciences, Yangzhou University
-- Outstanding Student Cadre of the School of Mathematical Sciences at Yangzhou University
 
 ## Services
 
