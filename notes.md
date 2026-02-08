@@ -10,7 +10,7 @@ title: Notes
 
 
 
-## Graduate Class notes (Not yet revised or fully archived) 
+## Graduate Class notes
 
 - [Introduction to the Finite Element Method](FEM.pdf) 
 - [Mathematical Foundations of the Navier--Stokes Equations](NS.pdf)  
